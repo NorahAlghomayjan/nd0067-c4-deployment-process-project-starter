@@ -16,4 +16,4 @@ Create EB Environemnt and EB Application to contain the backend udagram-api file
 
 ### Diagram Show the Process of Deploying an App using AWS Services:
 
-![The different AWS services used for hosting the API, Frontend, and the DB.](/AWS.drawio.png "Used AWS Services").
+![The different AWS services used for hosting the API, Frontend, and the DB.](/Docs/AWS.drawio.png "Used AWS Services").
