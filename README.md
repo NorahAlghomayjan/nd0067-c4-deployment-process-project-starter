@@ -40,7 +40,7 @@ Users Can Access Website Using the following Link:
 
 [Udagram Home Page](http://myproject4212.s3-website-us-east-1.amazonaws.com/home).
 
-![Udagram home page](nd0067-c4-deployment-process-project-starter/assets/homepage.png "home page")
+![Udagram home page](/assets/homepage.png "home page")
 
 #### Signing-Up and Signing-In
 
