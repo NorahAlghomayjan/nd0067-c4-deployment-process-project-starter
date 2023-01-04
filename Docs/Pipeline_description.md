@@ -9,23 +9,23 @@ Pipeline helps speed-up, automate deployment, also finding bugs using the princi
 This file contains:
 
 1. **version** : the circleci version that is being used.
-2. **obs**: set of instructions to instruct the server to setup specific softwares on the server in order to excute the pipleine.
+2. **orbs**: set of instructions to instruct the server to setup specific softwares on the server in order to excute the pipleine.
 3. **jobs**: groups of command to run in order, we have 2 sets (build & deploy).
 4. **workflows**: instructions to excute jobs in specific order.
 
-### version:
+## version:
 
 cicelci 2.1
 
-### orbs:
+## orbs:
 
 in Udagram, we need 3 softwares to be installed and set in the server (Node , EB , AWS-CLI).
 
-### jobs:
+## jobs:
 
 We have 2 sets (build & deploy).
 
-#### build:
+### build:
 
 1. base docker image.
 2. install node.
@@ -43,7 +43,7 @@ We have 2 sets (build & deploy).
 3. run:
    1. deploy the app : it going to trigger the command in root package.json deploy
 
-### workflows:
+## workflows:
 
 The circleci will excute the jobs in the following order:
 

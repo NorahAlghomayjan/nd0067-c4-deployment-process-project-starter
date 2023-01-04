@@ -13,9 +13,9 @@ Udagram is an application to post and share images, users should sign-up to be a
 
 
 - Udagram Is Deployed in AWS Services, using:
-    1. [RDS] (https://us-east-1.console.aws.amazon.com/rds/home?region=us-east-1) - to host Postgres Database.
-    2. [S3] (https://s3.console.aws.amazon.com/s3/home?region=us-east-1) - Bucket for the front-end (angular).
-    3. [EB] (https://us-east-1.console.aws.amazon.com/elasticbeanstalk/home?region=us-east-1#/environments) - for the backend.
+    1. [RDS] (database-2.cdubabhratqm.us-east-1.rds.amazonaws.com) - to host Postgres Database.
+    2. [S3] (http://myproject4212.s3-website-us-east-1.amazonaws.com/) - Bucket for the front-end (angular).
+    3. [EB] (http://udagram-env.eba-ttjjw93i.us-east-1.elasticbeanstalk.com/) - for the backend.
 
 ### Dependencies
 
@@ -38,7 +38,7 @@ Udagram is an application to post and share images, users should sign-up to be a
 
 Users Can Access Website Using the following Link:
 
-[Udagram Home Page](http://myproject4212.s3-website-us-east-1.amazonaws.com/home).
+[Udagram Home Page](http://myproject4212.s3-website-us-east-1.amazonaws.com).
 
 ![Udagram home page](/assets/homepage.png "home page")
 
@@ -56,10 +56,10 @@ Registered Users Can Sign-In using Email & Password (case sensetive):
 
 ![Sign-In](/assets/sign-in.png "Sign-In")
 
-### Documentaions:
+### Documentations:
 
-1. Screenshots of the AWS can be found in: /assets/AWS
-2. A screenshot of CircleCI Pipeline can be found in: /assets/CircleCI-Screenshots
-3. A screenshot of CircleCI Environment variables can be found in: /assets/CircleCI-Screenshots/circleci-env-variables.png
-4. A screenshot of CircleCI Config File can be found in: /assets/CircleCI-Screenshots/circleci-config.png
-5. Docs folder in : /Docs
+1. **Screenshots of the AWS** can be found in: /assets/AWS
+2. **A screenshot of CircleCI Pipeline** can be found in: /assets/CircleCI-Screenshots
+3. **A screenshot of CircleCI Environment** variables can be found in: /assets/CircleCI-Screenshots/circleci-env-variables.png
+4. **A screenshot of CircleCI Config File** can be found in: /assets/CircleCI-Screenshots/circleci-config.png
+5. **Docs folder** in : /Docs
