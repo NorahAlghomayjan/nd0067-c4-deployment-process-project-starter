@@ -46,15 +46,15 @@ Users Can Access Website Using the following Link:
 
 Click Register in the Top-Right Corner to Sign-Up:
 
-![Registering](nd0067-c4-deployment-process-project-starter/assets/registering.png "Registering")
+![Registering](/assets/registering.png "Registering")
 
 Once User is Registered, the Email will be Showed in the Top-Right Corner instead of the Registered button :
 
-![Registered](nd0067-c4-deployment-process-project-starter/assets/registered.png "Registered")
+![Registered](/assets/registered.png "Registered")
 
 Registered Users Can Sign-In using Email & Password (case sensetive):
 
-![Sign-In](nd0067-c4-deployment-process-project-starter/assets/sign-in.png "Sign-In")
+![Sign-In](/assets/sign-in.png "Sign-In")
 
 ### Documentaions:
 
